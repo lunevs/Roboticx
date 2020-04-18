@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboticx/static/css/main.654d6a0e.chunk.css",
+    "main.js": "/roboticx/static/js/main.17b1f199.chunk.js",
+    "main.js.map": "/roboticx/static/js/main.17b1f199.chunk.js.map",
+    "runtime-main.js": "/roboticx/static/js/runtime-main.2c8d0174.js",
+    "runtime-main.js.map": "/roboticx/static/js/runtime-main.2c8d0174.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/roboticx/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.7ff329c8.chunk.js": "/roboticx/static/js/2.7ff329c8.chunk.js",
+    "static/js/2.7ff329c8.chunk.js.map": "/roboticx/static/js/2.7ff329c8.chunk.js.map",
+    "index.html": "/roboticx/index.html",
+    "precache-manifest.94cca300f1b724045f63eb1c77ef712e.js": "/roboticx/precache-manifest.94cca300f1b724045f63eb1c77ef712e.js",
+    "service-worker.js": "/roboticx/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/roboticx/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.654d6a0e.chunk.css.map": "/roboticx/static/css/main.654d6a0e.chunk.css.map",
+    "static/js/2.7ff329c8.chunk.js.LICENSE.txt": "/roboticx/static/js/2.7ff329c8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboticx/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8d0174.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.7ff329c8.chunk.js",
+    "static/css/main.654d6a0e.chunk.css",
+    "static/js/main.17b1f199.chunk.js"
+  ]
+}
